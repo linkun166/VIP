@@ -1,22 +1,5 @@
 {
-
-"warningText":"N",    
-
-
 "sites":[
-{
-      "key": "app_轻简",
-      "name": "白度贴吧专用完整版",
-      "type": 1,
-      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ],
-      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;521D78A10B5DA52046832A14735A901B"
-    },
     {
       "key": "csp_WoGG",
       "name": "👽┃玩偶┃4K",
